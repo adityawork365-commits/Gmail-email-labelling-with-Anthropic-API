@@ -35,6 +35,7 @@ The architecture relies on n8n's **LangChain Agent Framework**, combining persis
         |    Memory      |  | (Get Message)  |   | (Create Label) |  | (Add Label)    |
         +----------------+  +----------------+   +----------------+  +----------------+
 
+```
 ## 🔄 Workflow Diagram
 
 <img width="1863" height="893" alt="Screenshot 2026-07-24 232101" src="https://github.com/user-attachments/assets/438df0a1-2075-4971-88fe-850371f14043" />

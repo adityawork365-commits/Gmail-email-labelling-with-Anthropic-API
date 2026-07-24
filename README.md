@@ -1,5 +1,13 @@
 # 📧 AI-Powered Gmail Automated Email Labelling Agent
 
+<!-- BADGES SECTION -->
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-AI%20Model-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Badge" />
+  <img src="https://img.shields.io/badge/Gmail-API%20Integration-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge" />
+</p>
+
 An intelligent, end-to-end email categorization and workflow automation system built with **n8n**, **Anthropic Claude API**, and **Gmail API integration**.
 
 ---
